@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace project.net3.Models
 {
-    public class Pessoa
+    public class Variaveis
     {
         public  string Nome { get; set; }
         public int Idade { get; set; }
